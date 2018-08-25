@@ -19,10 +19,10 @@ def last_element(array)
   my_last_element = "Out of The Woods"
 end
 def first_element_with_array_methods(array)
-  first_country = ("Thailand")
+  first_country = "Thailand"
 end
 def last_element_with_array_methods(array)
-  last_country = last_element_with_array_methods("Myanmar")
+  last_country = "Myanmar"
 end
 def length_of_array(array)
   length = length_of_array(8)
