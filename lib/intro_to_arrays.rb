@@ -12,4 +12,5 @@ def first_element(array)
 end
 
 def third_element(array)
-  my_third_element = 
+  my_third_element = "Style"
+end
