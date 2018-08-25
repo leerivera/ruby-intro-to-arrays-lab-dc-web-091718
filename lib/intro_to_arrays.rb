@@ -18,4 +18,6 @@ end
 def last_element(array)
   my_last_element = "Out of The Woods"
 end
+def first_element_with_array_methods
+  
   
