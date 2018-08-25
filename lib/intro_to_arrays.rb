@@ -22,6 +22,7 @@ def first_element_with_array_methods(array)
   first_country = first_element_with_array_methods("Thailand")
 end
 def last_element_with_array_methods(array)
-  last_country = last_element_with_array_methods()
+  last_country = last_element_with_array_methods("Myanmar")
+end
   
   
