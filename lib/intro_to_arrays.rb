@@ -10,3 +10,6 @@ end
 def first_element(array)
   my_first_element = "Welcome to New York"
 end
+
+def third_element(array)
+  my_third_element = 
